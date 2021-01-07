@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my github page 😁
 
- # Pelosi Tech [![Github](https://img.shields.io/github/followers/pelositech?logo=github&logoColor=black&style=social)](https://github.com/pelositech) [![Portfolio](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=http://pelositech-portfolio.herokuapp.com/)](http://carlopelosi.com/) [![Mail](https://img.shields.io/badge/-carlopelosi@live.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:carlopelosi@live.com)
+ # Pelosi Tech [![Github](https://img.shields.io/github/followers/pelositech?logo=github&logoColor=black&style=social)](https://github.com/pelositech) [![Portfolio](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=http://pelositech-portfolio.herokuapp.com/)](http://carlopelosi.com/about-me/) [![Mail](https://img.shields.io/badge/-carlopelosi@live.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:carlopelosi@live.com)
 
 [![Linkedin](https://img.shields.io/badge/-Carlo%20Pelosi-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carlo-pelosi)](https://www.linkedin.com/in/carlo-pelosi/)
 
