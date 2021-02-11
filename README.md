@@ -29,4 +29,4 @@ With a passion for software engineering, I have both the skill set and professio
 
 ### Interesting stats
 
-![Carlo's stats](https://github-readme-stats.vercel.app/api?username=pelositech&show_icons=true)
+![Carlo's stats](https://github-readme-stats.vercel.app/api?username=pelositech&show_icons=true&count_private=true)
