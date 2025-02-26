@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pelositech" alt="pelositech" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on [NextJS App Directory](https://allforonewebdesigns.com/)
+- 🔭 I’m currently working on [NextJS App Directory](https://carlopelosi.com/)
 
 - 🌱 I’m currently learning **UI/UX Design/Development to further my full stack abilities**
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **carlo@allforonewebdesigns.com**
+- 📫 How to reach me **carlopelosi@live.com**
 
 - 📄 Know about my experiences [https://carlopelosi.com/resume](https://carlopelosi.com/resume)
 
